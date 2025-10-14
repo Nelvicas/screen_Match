@@ -21,6 +21,11 @@ public class Main {
                 Fue lanzada en:
                 """ + fechaDeLanzamiento;
 
+        // Casting   convesion de tipos de datos
+
+        int clasificacion = (int) (media / 2);
+        System.out.println(clasificacion);
+
 
     }
 }
