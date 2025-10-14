@@ -5,7 +5,15 @@ public class Main {
         System.out.println("Bienvenido(a) a Screen Match");
         System.out.println("Pelicula: Matrix");
 
+        // tipos de datos
+
         int fechaDeLanzamiento = 1999;
+        boolean incluidoEnElPlan = true;
+        double notaDeLaPelicula = 8.2;
+
+        // operadores
+        double media = (8.2 + 6.0 + 9.0) / 3;
+        System.out.println(media);
 
     }
 }
