@@ -1,3 +1,16 @@
+
+/*
+
+La clase Scanner de Java se utiliza para leer datos de entrada en un programa Java.
+Estos datos pueden ser leídos desde varias fuentes de entrada, como archivos,
+flujos de entrada, cadenas e incluso la entrada del usuario a través del teclado
+
+
+Luego, utilizamos el método ‘nextLine()’ para leer una línea de texto
+
+ */
+
+
 import java.util.Scanner;
 
 public class Lectura {
